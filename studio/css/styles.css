@@ -1,0 +1,60 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.webstudio {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+}
+.spc {
+  color: #212121;
+}
+.contacts {
+  color: #757575;
+}
+.nav {
+  color: black;
+  font-weight: 500;
+  font-size: 14;
+}
+.main {
+  color: white;
+  font-weight: 900px;
+  font-size: 44px;
+  line-height: 60px;
+}
+.headers {
+  color: #212121;
+}
+.text {
+  color: #757575;
+}
+.buttoncolor {
+  color: white;
+  background-color: #2196f3;
+  cursor: pointer;
+}
+.job {
+  color: #757575;
+}
+
+.bgfirst {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+}
+.bgsec {
+  background-color: #f5f4fa;
+}
+.bgteam {
+  background-color: white;
+  width: 270px;
+  height: 368px;
+}
+.bgcontacts {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 252px;
+}
+.address {
+  color: white;
+}

@@ -1,0 +1,29 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.buttoncolor {
+  color: white;
+  background-color: #2196f3;
+  cursor: pointer;
+}
+.titles {
+  color: #757575;
+}
+.webstudio {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+}
+.spc {
+  color: #212121;
+}
+.contacts {
+  color: #757575;
+}
+.bgcontacts {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 252px;
+}
+.address {
+  color: white;
+}
